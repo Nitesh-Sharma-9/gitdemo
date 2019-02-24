@@ -1,10 +1,2 @@
 
-commit-1 from local
-commit-2 from online
-
-
-
-
-Adding one command for cherry pick cammoand practical
-
 
